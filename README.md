@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **swarnadeep.mandal@gmail.com**
 
-- 📄 Know about my experiences [https://github.com/swarnadeep13/Resume](https://github.com/swarnadeep13/Resume)
+- 📄 Know about my experiences [https://github.com/swarnadeep13/Resume/blob/main/Resume_of_Swarnadeep_Mondol.pdf](https://github.com/swarnadeep13/Resume/blob/main/Resume_of_Swarnadeep_Mondol.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
