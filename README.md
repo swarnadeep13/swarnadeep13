@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Swarnadeep Mondol</h1>
 <h3 align="center">A passionate Developer from India trying to break in the field of AI/ML</h3>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="300" align="right">
+<img src="https://github.com/swarnadeep13/swarnadeep13/blob/main/ai-generated-8048681_640.png" width="300" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnadeep13&label=Profile%20views&color=0e75b6&style=flat" alt="swarnadeep13" /> </p>
 
 - 🔭 I’m currently working as a Senior Consultant with **BusyRooms**
