@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **Learning AI/ML**
 
-- 💬 Ask me about **Java, SpringBoot,Microservice, DevOps, Azure**
+- 💬 Ask me about **Java, SpringBoot, Microservice, DevOps, Azure**
 
 - 📫 How to reach me **swarnadeep.mandal@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/swarnadeep13/Resume/blob/main/Resume_of_Swarnadeep_Mondol.pdf)
+- 📄 Know more about me  [Here](https://github.com/swarnadeep13/Resume/blob/main/Resume_of_Swarnadeep_Mondol.pdf)
 
 
 
