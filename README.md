@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swarnadeep Mondol</h1>
-<h3 align="center">A passionate Developer from India trying to break in the field of AI/ML</h3>
+<h3 align="center">An enthusiastic Indian developer seeking to make a name for himself in the AI/ML space</h3>
 <img src="https://github.com/swarnadeep13/swarnadeep13/blob/main/ai-generated-8048681_640.png" width="300" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnadeep13&label=Profile%20views&color=0e75b6&style=flat" alt="swarnadeep13" /> </p>
 
