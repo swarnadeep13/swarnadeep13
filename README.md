@@ -3,7 +3,7 @@
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/8aa99f6c-267d-4977-9cd3-1a4c11675863" width="300" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnadeep13&label=Profile%20views&color=0e75b6&style=flat" alt="swarnadeep13" /> </p>
 
-- 🔭 I’m currently working with **BusyRooms**
+- 🔭 I’m currently working as a Senior Consultant with **BusyRooms**
 
 - 🌱 I’m an aspiring **Data Scientist**
 
