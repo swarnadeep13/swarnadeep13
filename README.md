@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for Collaboration on  **Learning AI/ML**
 
-- 💬 Ask me about **Java, SpringBoot, Microservice, DevOps, Azure**
+- 💬 Ask me about **Java, SpringBoot, Microservice, DevOps, Azure, Agile**
 
 - 📫 How to reach me **swarnadeep.mandal@gmail.com**
 
