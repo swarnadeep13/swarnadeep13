@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **swarnadeep.mandal@gmail.com**
 
-- 📄 Know more about me  [Here](https://github.com/swarnadeep13/Resume/blob/main/Resume_of_Swarnadeep_Mondol.pdf)
+- 📄 Know more about me  [Here](https://github.com/swarnadeep13/Resume/blob/main/Resume_of_Swarnadeep_Mondol_TOGAF.pdf)
 
 
 
