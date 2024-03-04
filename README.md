@@ -3,7 +3,7 @@
 <img src="https://github.com/swarnadeep13/swarnadeep13/blob/main/ai-generated-8048681_640.png" width="300" align="right">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swarnadeep13&label=Profile%20views&color=0e75b6&style=flat" alt="swarnadeep13" /> </p>
 
-- 🔭 I’m currently working as a Senior Consultant with **BusyRooms**
+- 🔭 I’m currently working as a Senior Consultant with [**BusyRooms**](https://www.busy-rooms.com/en)
 
 - 🌱 I’m an aspiring **Data Scientist**
 
